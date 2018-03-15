@@ -1,0 +1,10 @@
+.logo{
+  width: 100%
+}
+.hero{
+  width: 100%;
+}
+.services{
+  display: flex;
+  align-items: center;
+}
